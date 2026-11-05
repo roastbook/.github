@@ -60,6 +60,7 @@ with your data on your own infrastructure.
 
 ### Take a look
 
+[Open the app](https://app.roastbook.coffee) ·
 [Website](https://roastbook.coffee) ·
 [Try the demo](https://demo.roastbook.coffee/overview) ·
 [Source code](https://github.com/michidk/roastbook) ·
