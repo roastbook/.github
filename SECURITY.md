@@ -6,9 +6,9 @@ data in public issues or pull requests.
 In the affected repository, open **Security → Advisories → Report a
 vulnerability** to send a private report to its maintainers.
 
-If that option is unavailable, open an issue asking the maintainers to enable
-private vulnerability reporting. Include no vulnerability details in that
-request. Wait for a private reporting channel before sharing details.
+If that option is unavailable, email [michael@lohr.dev](mailto:michael@lohr.dev)
+with a brief description and ask for a private channel before sending sensitive
+attachments.
 
 A useful private report includes the affected repository and version, the
 impact, reproduction steps, and a minimal proof of concept using synthetic

@@ -17,3 +17,5 @@ maintainer availability; there is no guaranteed response time.
 
 For vulnerabilities, follow [SECURITY.md](SECURITY.md) instead of opening a
 public issue.
+
+For general inquiries, contact [michael@lohr.dev](mailto:michael@lohr.dev).
