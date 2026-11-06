@@ -6,7 +6,7 @@ data in public issues or pull requests.
 In the affected repository, open **Security → Advisories → Report a
 vulnerability** to send a private report to its maintainers.
 
-If that option is unavailable, email [michael@lohr.dev](mailto:michael@lohr.dev)
+If that option is unavailable, email [hello@roastbook.coffee](mailto:hello@roastbook.coffee)
 with a brief description and ask for a private channel before sending sensitive
 attachments.
 
