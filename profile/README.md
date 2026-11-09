@@ -58,10 +58,26 @@ with your data on your own infrastructure.
 
 </details>
 
+### Open coffee knowledge
+
+We also publish coffee facts that anyone can reuse in an app, a map,
+or a guide:
+
+- **[Open Coffee Data](https://github.com/roastbook/open-coffee-data)**:
+  an open dataset of cafés, brew methods, and pour-over recipes.
+  Browse it in the [Data Explorer](https://data.roastbook.coffee/).
+  Data under CDLA-Permissive-2.0, code under MIT.
+- **[Open Coffee Schema](https://github.com/roastbook/open-coffee-schema)**:
+  an open standard for describing coffee places, equipment, brew methods,
+  and pour patterns. Every field is explained in the
+  [Schema Explorer](https://schema.roastbook.coffee/). MIT licensed.
+
 ### Take a look
 
 [Open the app](https://app.roastbook.coffee) ·
 [Website](https://roastbook.coffee) ·
+[Open Coffee Data](https://data.roastbook.coffee/) ·
+[Open Coffee Schema](https://schema.roastbook.coffee/) ·
 [Try the demo](https://demo.roastbook.coffee/overview) ·
 [Source code](https://github.com/michidk/roastbook) ·
 [Documentation](https://github.com/michidk/roastbook#-documentation)
