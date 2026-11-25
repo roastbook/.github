@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/michidk/roastbook/main/public/navbar-logo.png" alt="" width="64" height="64"><br>
+  <img src="https://raw.githubusercontent.com/roastbook/app/main/public/navbar-logo.png" alt="" width="64" height="64"><br>
   Roastbook
 </h1>
 
@@ -13,7 +13,7 @@ Keep your brews, beans, recipes, gear, and café discoveries together,
 with your data on your own infrastructure.
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/michidk/roastbook/main/public/media/roastbook-coffee-journal.webp"
+  <img src="https://raw.githubusercontent.com/roastbook/app/main/public/media/roastbook-coffee-journal.webp"
     alt="A saved Roastbook coffee recipe beside an espresso setup" width="1000">
   <br><sub>Real app screen with sample data, set in an AI-generated coffee scene.</sub>
 </p>
@@ -34,7 +34,7 @@ with your data on your own infrastructure.
   own tools through the REST API and MCP server.
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/michidk/roastbook/main/.github/images/overview-desktop.png"
+  <img src="https://raw.githubusercontent.com/roastbook/app/main/.github/images/overview-desktop.png"
     alt="Roastbook overview with recent brews and quick actions" width="1000">
 </p>
 
@@ -42,17 +42,17 @@ with your data on your own infrastructure.
 <summary>Explore more of Roastbook</summary>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/michidk/roastbook/main/.github/images/new-brew-desktop.png"
+  <img src="https://raw.githubusercontent.com/roastbook/app/main/.github/images/new-brew-desktop.png"
     alt="Logging a new espresso brew with taste controls and the brew timer" width="1000">
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/michidk/roastbook/main/.github/images/ai-opinion-desktop.png"
+  <img src="https://raw.githubusercontent.com/roastbook/app/main/.github/images/ai-opinion-desktop.png"
     alt="AI brew recommendations with a confidence rating and follow-up chat" width="1000">
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/michidk/roastbook/main/.github/images/beans-desktop.png"
+  <img src="https://raw.githubusercontent.com/roastbook/app/main/.github/images/beans-desktop.png"
     alt="Roastbook bean collection with coffee bags on the shelf" width="1000">
 </p>
 
@@ -79,8 +79,8 @@ or a guide:
 [Open Coffee Data](https://data.roastbook.coffee/) ·
 [Open Coffee Schema](https://schema.roastbook.coffee/) ·
 [Try the demo](https://demo.roastbook.coffee/overview) ·
-[Source code](https://github.com/michidk/roastbook) ·
-[Documentation](https://github.com/michidk/roastbook#-documentation)
+[Source code](https://github.com/roastbook/app) ·
+[Documentation](https://github.com/roastbook/app#-documentation)
 
 ### Build with us
 
