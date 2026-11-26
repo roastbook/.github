@@ -1,7 +1,7 @@
 # Getting help
 
 For the coffee journal, start with the
-[documentation](https://github.com/michidk/roastbook#-documentation), including
+[documentation](https://github.com/roastbook/app#-documentation), including
 configuration, deployment, and upgrade instructions.
 
 Search issues in the relevant repository before opening a new question or bug

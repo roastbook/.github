@@ -10,7 +10,7 @@ Read its README and any local contribution guide first; repository-specific
 instructions take precedence over this organization-wide guide.
 
 For the coffee journal, start with the
-[development guide](https://github.com/michidk/roastbook/blob/main/docs/development.md).
+[development guide](https://github.com/roastbook/app/blob/main/docs/development.md).
 For datasets and schemas, follow the repository's validation and source
 requirements.
 
